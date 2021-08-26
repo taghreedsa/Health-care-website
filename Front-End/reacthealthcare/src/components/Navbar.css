@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@800&display=swap');
+
+body{
+    background-color:rgb(255, 255, 255);
+    color:black;
+}
+
+.fa-leaf{
+color: #292929;
+margin:9px;
+}
+/* hover color nav ?  */
+ .nav-item:hover{
+     
+    border-bottom: 3px solid rgb(98, 154, 98);
+}
+.navbar-brand{
+    font-family: "Playfair Display";
+}
+nav {
+    background-color:rgb(255, 255, 255);
+    /* box-shadow: rgba(50, 50, 93, 0.25) 0px 0px 50px 10px, rgba(0, 0, 0, 0.3) 0px 10px 60px -70px; */
+}
+.log-btn{
+    background-color: Transparent;
+ border:none;
+    cursor:pointer;
+    color:gray;
+    outline:none;
+}
+log-btn:hover {
+color:black;
+}
